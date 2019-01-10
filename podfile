@@ -1,0 +1,4 @@
+target 'HTSDWebImage' do
+  pod 'SDWebImage'
+  pod 'AFNetworking'
+end
